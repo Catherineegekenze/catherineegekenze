@@ -1,6 +1,6 @@
 ## Hi there 👋
-I am currently working on being a cloud engineer
-I have no idea what I am doing
+👌I am currently working on being a cloud engineer,
+😥I have no idea what I am doing
 I am super optimistic and hope it leads to good things
 so here is to trying.
 <!--
